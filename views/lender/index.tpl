@@ -1,0 +1,1 @@
+/Users/vyankateshv/projects/blockchain/src/mortgage/views/lender/index.tpl
